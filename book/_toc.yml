@@ -143,9 +143,12 @@ parts:
       title: "Midterm 2025 Questions"
     - file: problems/midterm3.md
       title: "Last set of questions"
+    
 
   - caption: Contributing and Using
     chapters:
+    - url: https://github-reinvite-blue.vercel.app
+      title: "Re-invite to GitHub"
     - file: code_of_conduct.md
       title: Code of Conduct
     - file: contributing.md
