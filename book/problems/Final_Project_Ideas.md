@@ -12,7 +12,7 @@
 
 1. Apply the sudden approximation to a 1-electron atom, exploring what happens when the nuclear charge suddenly increases or decreases due to radioactive decay.
 
-1. Consider a particle in a box with finite, rather than infinite walls. What about the case where two boxes are separated by a barrier?
+1. ~~Consider a particle in a box with finite, rather than infinite walls. What about the case where two boxes are separated by a barrier?~~ (Project Claimed)
 
 1. Consider a quartic potential, which is a model for a double-well (a simplified model for a chemical reaction and for electron transfer).
 
@@ -46,4 +46,4 @@
 
 1. Build a simple "lattice" models for solids in 1, 2, and/or 3 dimensions.
 
-1. Exemplify symmetry breaking in molecular dissociation (e.g., for the hydrogen molecule), characterizing the Coulson-Fischer point. 
+1. Exemplify symmetry breaking in molecular dissociation (e.g., for the hydrogen molecule), characterizing the Coulson-Fischer point.
