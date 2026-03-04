@@ -10,7 +10,7 @@
 
 1. Understand Hund's rules by computing the electron-electron repulsion integrals and comparing different energies.
 
-1. Apply the sudden approximation to a 1-electron atom, exploring what happens when the nuclear charge suddenly increases or decreases due to radioactive decay.
+1. ~~Apply the sudden approximation to a 1-electron atom, exploring what happens when the nuclear charge suddenly increases or decreases due to radioactive decay.~~ (Project Claimed)
 
 1. ~~Consider a particle in a box with finite, rather than infinite walls. What about the case where two boxes are separated by a barrier?~~ (Project Claimed)
 
