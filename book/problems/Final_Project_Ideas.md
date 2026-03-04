@@ -24,7 +24,7 @@
 
 1. Correction for the finite size of the nucleus. A Gaussian model for the nuclear charge distribution can be used, for example.
 
-1. Computing the spin-orbital (relativistic) correction.
+1. ~~Computing the spin-orbit (relativistic) correction. I'd recommend using perturbation theory for this.~~ (Project Claimed)
 
 1. Computing (homogeneous) spectral broadening due to the finite lifetime of excited states and/or pressure (collisional) effects.
 
@@ -55,4 +55,6 @@
 1. Learn about the effects of electron-electron repulsion by adding contributions from the Pariser-Parr-Pople (PPP) (a.k.a. Hubbard) model to the H&uuml;ckel model. (This could be done with perturbation theory). You could also do this with the Hartree-Fock method.
 
 1. Examine Koopmans' theorem.
+
+1. Understand favorable substitution patterns in heterocyclic aromatic molecules using "alchemical" transformations, where one of the atoms in the molecule is changed from one element to another. This can be done with perturbation theory, for example.
 
