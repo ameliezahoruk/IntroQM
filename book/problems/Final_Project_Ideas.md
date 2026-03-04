@@ -52,3 +52,7 @@
 
 1. (Refer to above). Think about the sudden approximation and the adiabatic approximation for a harmonic oscillator. Imagine, for example, the difference between "suddenly imposing an external field" and "slowly imposing an external field".
 
+1. Learn about the effects of electron-electron repulsion by adding contributions from the Pariser-Parr-Pople (PPP) (a.k.a. Hubbard) model to the H&uuml;ckel model. (This could be done with perturbation theory). You could also do this with the Hartree-Fock method.
+
+1. Examine Koopmans' theorem.
+
