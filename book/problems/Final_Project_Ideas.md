@@ -6,7 +6,7 @@
 
 1. ~~"Gravitational" atoms. Pretend that the electrons and nuclei did not have charge, but only mass. What would atoms look like? How big is the "correction" (as a perturbation) due to gravitational attraction for 1- and 2-electron atoms?~~ (Project claimed)
 
-1. Relativistic effects. Use scalar relativity (the zero order regular approximation is easiest) to correct the energy.
+1. ~~Relativistic effects. Use scalar relativity (the zero order regular approximation is easiest) to correct the energy.~~ (Project Claimed)
 
 1. Understand Hund's rules by computing the electron-electron repulsion integrals and comparing different energies.
 
