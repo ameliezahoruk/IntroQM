@@ -4,7 +4,7 @@
 
 1. Crystal Field Theory. You could use a simple point-charge model to understand the splitting of d-orbitals in different ligand fields (octahedral, tetrahedral, square planar, etc.) You could also use a more sophisticated model, such as the angular overlap model, to understand the splitting of d-orbitals in a ligand field.
 
-1. "Gravitational" atoms. Pretend that the electrons and nuclei did not have charge, but only mass. What would atoms look like? How big is the "correction" (as a perturbation) due to gravitational attraction for 1- and 2-electron atoms?
+1. ~~"Gravitational" atoms. Pretend that the electrons and nuclei did not have charge, but only mass. What would atoms look like? How big is the "correction" (as a perturbation) due to gravitational attraction for 1- and 2-electron atoms?~~ (Project claimed)
 
 1. Relativistic effects. Use scalar relativity (the zero order regular approximation is easiest) to correct the energy.
 
