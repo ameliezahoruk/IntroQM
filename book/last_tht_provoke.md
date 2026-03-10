@@ -5,6 +5,7 @@
 - Write a Slater determinant wavefunction that is an angular-momentum and spin-angular-momentum eigenfunction for the ${}^4 F$ term ($\text{[Ar]}4s^23d^3$ configuration (Vanadium)). The ${}^6 D$ term is only .0096 a.u. above this state. Why?
 - Explain why the Hartree-Fock method is equivalent to "optimizing the effective nuclear charge of each orbital in a Slater determinant via the variational principle?"
 - What are the possible $L$ and $S$ values for a $\text{[closed shell]}s^1 p^1 d^1$ electron configuration? What is the ground-state term symbol (assuming Hund's rules hold) and what are the $J$ values associated with it?
+- Consider a Boron atom in its ground-state electron configuration. What would be the "spot pattern" if a beam of ground-state Boron atoms were sent through a Stern-Gerlach apparatus with a magnetic field gradient along the $z$-axis? 
 - Explain why a Slater determinant encodes the Pauli exclusion principles that electrons with the same spin cannot be at the same position and that no two electrons can occupy the same spin orbital.
 - Write down the electronic and nuclear Hamiltonians for a molecule and explain each term. Under what circumstances can one solve these equations "exactly?"
 - Explain the Born-Oppenheimer approximation. What are its assumptions? When does it break down?
