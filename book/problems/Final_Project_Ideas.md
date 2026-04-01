@@ -1,6 +1,6 @@
 # Final Project Ideas
 
-1. Understanding spooky behavior like above-barrier reflection and below-barrier transmission (tunnelling). You could use a plane wave impinging on a square barrier or, fancier, an Eckart barrier. Another fancier option would be to use a (Gaussian) wavepacket instead of a plane wave.
+1. ~~Understanding spooky behavior like above-barrier reflection and below-barrier transmission (tunnelling). You could use a plane wave impinging on a square barrier or, fancier, an Eckart barrier. Another fancier option would be to use a (Gaussian) wavepacket instead of a plane wave.~~(Project Claimed)
 
 1. ~~Crystal Field Theory. You could use a simple point-charge model to understand the splitting of d-orbitals in different ligand fields (octahedral, tetrahedral, square planar, etc.) You could also use a more sophisticated model, such as the angular overlap model, to understand the splitting of d-orbitals in a ligand field~~ (Project Claimed).
 
@@ -20,7 +20,7 @@
 
 1. ~~Understand the kinetic isotope effect, which is mainly an effect of zero-point energies (but tunneling corrections can also be considered).~~ (Project Claimed)
 
-1. Explore how basis sets (e.g., polynomial or Gaussian basis sets) converge to the exact solution as the number of basis functions increases. Are there differences when electron-electron repulsion is included?
+1. ~~Explore how basis sets (e.g., polynomial or Gaussian basis sets) converge to the exact solution as the number of basis functions increases. Are there differences when electron-electron repulsion is included?~~ (Project Claimed)
 
 1. Correction for the finite size of the nucleus. A Gaussian model for the nuclear charge distribution can be used, for example.
 
@@ -32,15 +32,17 @@
 
 1. ~~Computation of the rotational spectrum of a polyatomic molecule.~~ (Project Claimed)
 
-1. Computation of the vibrational spectrum of a polyatomic molecule.
+1. ~~ Computation of the vibrational spectrum of a polyatomic molecule.~~ (Project Claimed)
 
 1. ~~Write simple molecular-orbital models for the hydrogen molecule and/or polyatomic hydrogen clusters.~~ (Project Claimed)
 
-1. Write simple valence-bond models for the hydrogen molecule and/or polyatomic hydrogen clusters.
+1. ~~Write simple valence-bond models for the hydrogen molecule and/or polyatomic hydrogen clusters.~~(Project Claimed)
 
-1. Compute the Stark or Zeeman effects for a simple system.
+1. ~~Compute the Stark effect for a simple system.~~ (Project Claimed)
 
-1. Compute the polarizability of H atom, showing that the bound-state H-atom wavefunctions are not a complete set. (Also look at expanding a sharp and/or a diffuse orbital with a H-atom basis.)
+1. Compute the Zeeman effect for a simple system.
+
+1. Compute the polarizability of H atom, showing that the bound-state H-atom wavefunctions are not a complete set. (Also look at expanding a sharp and/or a diffuse orbital with a H-atom basis.) There is a clever trick from Dalgarno for doing this.
 
 1. ~~Plot the effective nuclear charge felt by an electron in an orbital. How does it relate to the decay rate of the orbital?~~ (Project Claimed)
 
@@ -56,9 +58,10 @@
 
 1. ~~Examine Koopmans' theorem.~~ (Project Claimed)
 
-1. Understand favorable substitution patterns in heterocyclic aromatic molecules using "alchemical" transformations, where one of the atoms in the molecule is changed from one element to another. This can be done with perturbation theory, for example.
+1. ~~Understand favorable substitution patterns in heterocyclic aromatic molecules using "alchemical" transformations, where one of the atoms in the molecule is changed from one element to another. This can be done with perturbation theory, for example.~~ (Project Claimed)
 
 1. Model ro-vibrational spectra for a diatomic molecule, including corrections for anharmonicity and centrifugal distortion.
 
 1. ~~Explain semiconducting vs. metallic nanotubes at the Huckel level.~~ (Project Claimed)
+
 
